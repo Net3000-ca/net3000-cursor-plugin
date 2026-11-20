@@ -1,0 +1,19 @@
+{
+  "name": "net3000",
+  "displayName": "Net3000",
+  "version": "1.0.0",
+  "description": "Manage your Net3000 websites, bookings, stores, courses, job boards and mailing lists.",
+  "author": {
+    "name": "Net3000",
+    "email": "support@net3000.ca"
+  },
+  "publisher": "Net3000",
+  "homepage": "https://www.net3000.ca",
+  "repository": "https://github.com/Net3000-ca/net3000-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["net3000", "mcp", "cms", "ecommerce", "bookings", "courses", "job-board", "mailing-list"],
+  "category": "integrations",
+  "tags": ["mcp", "cms", "ecommerce", "bookings", "net3000"],
+  "mcpServers": "./mcp.json"
+}
